@@ -42,4 +42,5 @@ Desenvolvido por **Edney Muniz**
 
 
 
-git clone https://github.com/seu-usuario/calculadora-juros-compostos.git
+ http://edneymuniz.github.io/calculadora-juros-compostos/
+
