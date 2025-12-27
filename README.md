@@ -38,7 +38,8 @@ Abra o arquivo `index.html` no navegador.
 Projeto pessoal para estudo e portfólio.
 
 ---
-Desenvolvido por **Seu Nome**
+Desenvolvido por **Edney Muniz**
+
 
 
 git clone https://github.com/seu-usuario/calculadora-juros-compostos.git
